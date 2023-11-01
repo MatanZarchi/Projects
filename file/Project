@@ -3,7 +3,6 @@
 #include <assert.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-//Matan Zarchi 208389999
 
 typedef struct ArrayData { //OF EX3
 	int value, i, j;
@@ -79,7 +78,7 @@ void freeMat(int** mat, int rows)
 	}
 	free(mat);
 }
-node* Insert(node* head, ArrayData data)//äëðñú àéáø ìøùéîä
+node* Insert(node* head, ArrayData data)//Ã¤Ã«Ã°Ã±Ãº Ã Ã©Ã¡Ã¸ Ã¬Ã¸Ã¹Ã©Ã®Ã¤
 {
 	node* newnode = getnewnode(data);//creat a new node-> getting a new node with the data
 	node* temp = head;
@@ -99,7 +98,7 @@ node* Insert(node* head, ArrayData data)//äëðñú àéáø ìøùéîä
 	}
 	return head;
 }
-intnode* Insert1(intnode* head, int data)//äëðñú àéáø ìøùéîä
+intnode* Insert1(intnode* head, int data)//Ã¤Ã«Ã°Ã±Ãº Ã Ã©Ã¡Ã¸ Ã¬Ã¸Ã¹Ã©Ã®Ã¤
 {
 	intnode* newnode = getnewnode1(data);//creat a new node-> getting a new node with the data
 	intnode* temp = head;
@@ -119,7 +118,7 @@ intnode* Insert1(intnode* head, int data)//äëðñú àéáø ìøùéîä
 	}
 	return head;
 }
-charnode* Insert2(charnode* head, char data)//äëðñú àéáø ìøùéîä
+charnode* Insert2(charnode* head, char data)//Ã¤Ã«Ã°Ã±Ãº Ã Ã©Ã¡Ã¸ Ã¬Ã¸Ã¹Ã©Ã®Ã¤
 {
 	charnode* newnode = getnewnode2(data);//creat a new node-> getting a new node with the data
 	charnode* temp = head;
