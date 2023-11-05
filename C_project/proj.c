@@ -5,8 +5,6 @@
 #include <stdbool.h>
 #define SIZE 100
 
-// Matan Zarchi 208389999
-//הוגש ביחידות
 
 
 //EX1
