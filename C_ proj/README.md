@@ -1,5 +1,6 @@
 # Projects
-# 5 questions
+# 7 questions
+# The project includes lists, strings, array, allocation and more...
 
 # Question 1:
 Writing an efficient function called powerArray that accepts an integer n and returns a pointer to an array of size and type unsigned int, which is an edge or dynamic within the function.
@@ -25,4 +26,14 @@ The original list containing 3, 6, 1, 9, 8, 4, 5 (from left to right) will be up
 
 # Question 5:
 Writing a function called createList2 that performs the same task as the function from question 4, but unlike the function from question 4, the current function will not use freeing and allocating memory. The function must change the links in the original list, disconnect the elements that should be deleted from it and link them in the new list.
+
+# Question 6:
+Writing a function called removeDupArrayLists which receives an array of linked lists (without dummy members) of characters and its size.
+The function must delete members from each of the array lists, so that no duplicate members remain.
+
+# Question 7:
+Writing a function named disassemblyList which receives a linked list (without a dummy member) of characters.
+The function must break the list into four separate lists so that the first list contains only lowercase letters, the second list - only uppercase letters, the third list - only digits, and the fourth list - other characters.
+
+
 
