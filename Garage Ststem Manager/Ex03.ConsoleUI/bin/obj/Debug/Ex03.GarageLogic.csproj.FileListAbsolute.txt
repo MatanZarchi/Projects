@@ -1,0 +1,7 @@
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\matan\OneDrive\שולחן העבודה\A24_Ex03_Eran_203606736_Matan_208389999\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
